@@ -39,9 +39,7 @@ body {
     width: 100%;
     margin: 10px 0;
     height: 78vh;
-    overflow: hidden;
-
-    
+    overflow: hidden;    
 }
 
 .image-container img {
@@ -79,9 +77,9 @@ body {
     gap: 15px;
 }
 
+@media screen and (max-width: 400px){
+    .botoes{
+    gap: 3px;
+}
 
-
-
-
-
-
+}
