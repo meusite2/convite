@@ -71,10 +71,10 @@ body {
 .botoes{
     display: flex;
     flex-direction: row;
-    width: 100px;
-    margin-top: -159px;
-    margin-left: 24px;
-    gap: 16px;
+    width: 120px;
+    margin-top: -180px;
+    margin-left: 12px;
+    gap: 0px;
 }
 
 @media screen and (max-width: 400px){
