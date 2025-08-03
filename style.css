@@ -37,7 +37,7 @@ body {
 .image-container {
     width: 100%;
     margin: 10px 0;
-    position: relative; 
+    height: 52vh;
     overflow: hidden;
     
 }
@@ -71,8 +71,10 @@ body {
 .botoes{
     display: flex;
     flex-direction: row;
-    width: 120px;
-    margin-top: -140px;
+    width: 100px;
+    margin-top: -155px;
+    margin-left: 24px;
+    gap: 7px;
 }
 
 
