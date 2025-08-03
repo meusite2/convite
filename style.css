@@ -79,10 +79,8 @@ body {
 
 @media screen and (max-width: 400px){
     .botoes{
-    gap:0px;
+    gap: 3px;
+    margin-left: 22px;
 }
 
 }
-
-
-
