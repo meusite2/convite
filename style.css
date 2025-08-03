@@ -15,16 +15,17 @@ body {
     height: 100vh;
     text-align: center;
     color: rgb(46, 0, 35);
-    padding: 20px;
+    padding: 10px;
 }
 
 .container {
     background: linear-gradient(135deg, rgb(160, 180, 211), #abcef4, #b549a6);
-    padding: 20px;
+    padding: 10px;
     border-radius: 12px;
     max-width: 400px;
     width: 100%;
     box-shadow: 0px 0px 10px rgba(255, 0, 128, 0.6);
+    
 }
 
 .title {
@@ -39,6 +40,7 @@ body {
     margin: 10px 0;
     height: 92vh;
     overflow: hidden;
+
     
 }
 
@@ -76,8 +78,6 @@ body {
     margin-left: 24px;
     gap: 7px;
 }
-
-
 
 
 
