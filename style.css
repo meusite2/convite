@@ -109,16 +109,21 @@ body {
     animation: pulsar 1.5s infinite; /* Aplica a animação de pulsar */
 }
 @media screen and (max-width: 400px){
-    .botoes{
-    width: 108px;
+    .botoes{    
+    width: 100%;
     margin-top: -10px;   
-    gap: 0px;
-    margin-left: 13px;
+    gap: 3px;
+    margin-left: 0px;
+    
 }
+    .botoes a{
+        width: 100px;
+    }
+
     .interage{
     display: flex;
     flex-direction: row;
-    margin-top: -135px;
+    margin-top: -125px;
     margin-left: 45px;
     width: 260px;
 }
