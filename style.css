@@ -37,7 +37,7 @@ body {
 .image-container {
     width: 100%;
     margin: 10px 0;
-    height: 72vh;
+    height: 92vh;
     overflow: hidden;
     
 }
@@ -76,6 +76,7 @@ body {
     margin-left: 24px;
     gap: 7px;
 }
+
 
 
 
