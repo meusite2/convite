@@ -66,9 +66,10 @@ body {
    .botoes {
        display: flex;
        justify-content: center; /* Centraliza os botões horizontalmente */
-       gap: 10px; /* Espaçamento entre os botões */
-       margin-top: -4px; /* Ajuste conforme necessário */
+       gap: 8px; /* Espaçamento entre os botões */
+       margin-top: -2px; /* Ajuste conforme necessário */
        width: 100%; /* Para ocupar todo o espaço disponível */
+       margin-left: -2px;
        
    }
    .botoes a {
@@ -88,7 +89,7 @@ body {
 .interage{
     display: flex;
     flex-direction: row;
-    margin-top: -145px;
+    margin-top: -165px;
     margin-left: 58px;
     width: 260px;
 }
@@ -128,4 +129,3 @@ body {
     width: 260px;
 }
 }
-
