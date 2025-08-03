@@ -71,16 +71,16 @@ body {
 .botoes{
     display: flex;
     flex-direction: row;
-    width: 102px;
-    margin-top: -12px;
-    margin-left: 24px;
-    gap: 13.5px;
+    width: 117px;
+    margin-top: -10px;
+    margin-left: 12px;
+    gap: 1px;
 }
 
 .interage{
     display: flex;
     flex-direction: row;
-    margin-top: -170px;
+    margin-top: -145px;
     margin-left: 58px;
     width: 260px;
 }
@@ -99,4 +99,3 @@ body {
     width: 260px;
 }
 }
-
