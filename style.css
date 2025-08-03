@@ -74,12 +74,13 @@ body {
     width: 100px;
     margin-top: -155px;
     margin-left: 24px;
-    gap: 15px;
+    gap: 16px;
 }
 
 @media screen and (max-width: 400px){
     .botoes{
-    gap: 3px;
+    gap: 2px;
 }
 
 }
+
