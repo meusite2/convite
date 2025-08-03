@@ -38,7 +38,7 @@ body {
 .image-container {
     width: 100%;
     margin: 10px 0;
-    height: 78vh;
+    height: 74vh;
     overflow: hidden;    
 }
 
@@ -115,3 +115,4 @@ body {
     width: 260px;
 }
 }
+
